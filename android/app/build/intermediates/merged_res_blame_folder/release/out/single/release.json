@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_logo.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/build/generated/res/react/release/drawable-mdpi/assets_logo.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/hrag03/blalalal/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_buttonoff.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/build/generated/res/react/release/drawable-mdpi/assets_buttonoff.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_background.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/build/generated/res/react/release/drawable-mdpi/assets_background.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_flamelow.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/build/generated/res/react/release/drawable-mdpi/assets_flamelow.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_flamehigh.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/build/generated/res/react/release/drawable-mdpi/assets_flamehigh.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_buttonon.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/build/generated/res/react/release/drawable-mdpi/assets_buttonon.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_percentage25.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/build/generated/res/react/release/drawable-mdpi/assets_percentage25.png"
+    },
+    {
+        "merged": "/Users/hrag03/blalalal/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/hrag03/blalalal/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

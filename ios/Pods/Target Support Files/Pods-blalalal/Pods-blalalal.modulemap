@@ -1,0 +1,6 @@
+module Pods_blalalal {
+  umbrella header "Pods-blalalal-umbrella.h"
+
+  export *
+  module * { export * }
+}

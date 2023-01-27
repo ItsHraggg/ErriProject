@@ -1,0 +1,112 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.blalalal"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.BLUETOOTH" />
+12-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:5:5-68
+12-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:5:22-65
+13    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+13-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:6:5-74
+13-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:6:22-71
+14    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+14-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:7:5-73
+14-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:7:22-70
+15    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+15-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:8:5-78
+15-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:8:22-75
+16    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+16-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:9:5-76
+16-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:9:22-73
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:10:5-80
+17-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:10:22-78
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:11:5-78
+18-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:11:22-76
+19
+20    <uses-feature
+20-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:12:5-89
+21        android:name="android.hardware.bluetooth_le"
+21-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:12:19-63
+22        android:required="true" />
+22-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:12:64-87
+23
+24    <permission
+24-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:13:5-89
+25        android:name="android.permission.BLUETOOTH"
+25-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:13:17-60
+26        android:label="BLUETOOTH" />
+26-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:13:61-86
+27    <permission android:name="android.permission.BLUETOOTH_ADMIN" />
+27-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:14:5-69
+27-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:14:17-66
+28
+29    <uses-feature
+29-->[:react-native-bluetooth-state-manager] /Users/hrag03/blalalal/node_modules/react-native-bluetooth-state-manager/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-13:36
+30        android:name="android.hardware.bluetooth"
+30-->[:react-native-bluetooth-state-manager] /Users/hrag03/blalalal/node_modules/react-native-bluetooth-state-manager/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-50
+31        android:required="false" />
+31-->[:react-native-bluetooth-state-manager] /Users/hrag03/blalalal/node_modules/react-native-bluetooth-state-manager/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:9-33
+32
+33    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
+33-->[com.github.Polidea:MultiPlatformBleAdapter:b0272c0fae040cc90f790481c54e8f2d45304339] /Users/hrag03/.gradle/caches/transforms-3/8bf07eaed5bb1d39c47aa5ca02e526c5/transformed/jetified-MultiPlatformBleAdapter-b0272c0fae040cc90f790481c54e8f2d45304339/AndroidManifest.xml:14:5-88
+33-->[com.github.Polidea:MultiPlatformBleAdapter:b0272c0fae040cc90f790481c54e8f2d45304339] /Users/hrag03/.gradle/caches/transforms-3/8bf07eaed5bb1d39c47aa5ca02e526c5/transformed/jetified-MultiPlatformBleAdapter-b0272c0fae040cc90f790481c54e8f2d45304339/AndroidManifest.xml:14:29-85
+34    <uses-permission-sdk-23 android:name="android.permission.ACCESS_FINE_LOCATION" />
+34-->[com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/hrag03/.gradle/caches/transforms-3/c4f774977edaa4ecc7e2a4239a44e282/transformed/jetified-rxandroidble-1.7.1/AndroidManifest.xml:15:5-86
+34-->[com.polidea.rxandroidble:rxandroidble:1.7.1] /Users/hrag03/.gradle/caches/transforms-3/c4f774977edaa4ecc7e2a4239a44e282/transformed/jetified-rxandroidble-1.7.1/AndroidManifest.xml:15:29-83
+35
+36    <application
+36-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:19:5-38:19
+37        android:name="com.blalalal.MainApplication"
+37-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:20:7-38
+38        android:allowBackup="false"
+38-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:24:7-34
+39        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+39-->[androidx.core:core:1.1.0] /Users/hrag03/.gradle/caches/transforms-3/6636202a2e344f69092b239199c01f49/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+40        android:icon="@mipmap/ic_launcher"
+40-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:22:7-41
+41        android:label="@string/app_name"
+41-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:21:7-39
+42        android:roundIcon="@mipmap/ic_launcher_round"
+42-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:23:7-52
+43        android:theme="@style/AppTheme" >
+43-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:25:7-38
+44        <activity
+44-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:26:7-37:18
+45            android:name="com.blalalal.MainActivity"
+45-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:27:9-37
+46            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+46-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:29:9-118
+47            android:exported="true"
+47-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:32:9-32
+48            android:label="@string/app_name"
+48-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:28:9-41
+49            android:launchMode="singleTask"
+49-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:30:9-40
+50            android:windowSoftInputMode="adjustResize" >
+50-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:31:9-51
+51            <intent-filter>
+51-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:33:9-36:25
+52                <action android:name="android.intent.action.MAIN" />
+52-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:34:13-65
+52-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:34:21-62
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:35:13-73
+54-->/Users/hrag03/blalalal/android/app/src/main/AndroidManifest.xml:35:23-70
+55            </intent-filter>
+56        </activity>
+57    </application>
+58
+59</manifest>

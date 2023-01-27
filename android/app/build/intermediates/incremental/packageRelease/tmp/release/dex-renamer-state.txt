@@ -1,0 +1,4 @@
+#Thu Jan 26 00:23:27 AMT 2023
+base.0=/Users/hrag03/blalalal/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
